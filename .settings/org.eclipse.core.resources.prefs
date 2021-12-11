@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/vn/caforyou/controller/dealer/EditPostController.java=UTF-8
+encoding//src/main/java/vn/caforyou/controller/dealer/PostCarController.java=UTF-8
+encoding//src/main/java/vn/caforyou/controller/dealer/StoreSettingController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/admin/AdminBrandController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/admin/AdminInfoController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/admin/CreateBrandController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/admin/EditBrandController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/web/ContactController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/web/LoginController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/web/ProfileSettingController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/web/RegisterController.java=UTF-8
+encoding//src/main/java/vn/carforyou/controller/web/SendMailController.java=UTF-8
+encoding//src/main/java/vn/carforyou/dao/impl/BrandDaoImpl.java=UTF-8
+encoding//src/main/java/vn/carforyou/dao/impl/ProductDaoImpl.java=UTF-8
+encoding//src/main/webapp/views/home.jsp=UTF-8
