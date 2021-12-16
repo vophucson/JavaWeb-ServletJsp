@@ -18,7 +18,7 @@
 		<div class="hk-pg-header">
 			<h4 class="hk-pg-title">
 				<span class="pg-title-icon"><span class="feather-icon"><i
-						data-feather="align-left"></i></span></span>Chỉnh sửa tình trạng cửa hàng
+						data-feather="align-left"></i></span></span>Chỉnh sửa tình trạng đại lý
 			</h4>
 		</div>
 		<!-- /Title -->
